@@ -51,5 +51,5 @@ UNITED STATES CENSUS BUREAU
 Census Data can be accessed from the reference page located below:
 https://www2.census.gov/geo/docs/reference/ua/ (State_Urban_Rural_Pop_2020_2010.csv)
 
-We assume to see a close correlation to economic indicators and urbanizations and their relationship to home price indices. 
+We assume to see a close correlation to economic indicators and urbanization and their relationship to home price indices. 
 
