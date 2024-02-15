@@ -5,15 +5,14 @@ Collaborators
 Walter Hampson, Drew Kirke, Michael Haile, Kortney Cose
 
 Background
-
 The purpose of this project is to analyze home prices based off Zillow data to determine trends and predict future pricing. The data introduced is intended to allow you to correlate home prices to different economic indicators and urbanization.
 Throughout this project we will be analyzing Zillow Home Pricing Index data. We will use this data to identify the average change in home prices in the US within the last 5 and 10 years. This data will also allow us to gather what States see the largest increases in home pricing.  To determine what may influence changes in home prices, we will compare trends from FRED data that outlines different economic measures such as inflation, consumer pricing index, and interest rates. Using US census populations, we be able to determine if home pricing and urban population growth have any correlation. With this data we should be able to predict how home prices will trend in the future. This will be useful information to identify how home prices interact with other economic measures and developments. The learning from this project will allow others to anticipate home prices based off fiscal standings and performance. 
 
+Research Questions:
 Which states have the greatest increase of home pricing within the last 5 years? 10 years? 
 How does inflation influence overall home pricing? 
 What type of relationship do interest rates have to home pricing?  
 What is the average change in home prices in the US within the last 5 years? 10 years? 
-What is the relationship between urbanization rates and home prices per state? 
 Can we predict future home prices using a regression analysis? 
 
 We will use a combination of pandas and matplotlib to clean and display the data to answer the above questions. 
